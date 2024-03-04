@@ -1,1 +1,3 @@
 Holaa q tal
+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
+git remote add origin main https://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@github.com/NoirCatharsis/Prueba1.git
